@@ -7,6 +7,7 @@ class NotBlank
 #[Attribute(Attribute::TARGET_PROPERTY)]
 class Length
 {
+
     public int $min;
     public int $max;
 
